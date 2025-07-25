@@ -1,0 +1,10 @@
+{
+  "name": "opencode-multi-auth-codex",
+  "version": "0.1.0",
+  "description": "OpenCode account routing, session controls, dashboard, and reliability tooling for Codex OAuth",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
